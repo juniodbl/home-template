@@ -3,7 +3,8 @@ this repo is an refactor of the [W3.CSS Website Templates](#W3.CSS-Website-Templ
 
 ## W3.CSS Website Templates
 Citation from w3schools
-```We have created some responsive W3.CSS website templates for you to use.
+```
+We have created some responsive W3.CSS website templates for you to use.
 You are free to modify, save, share, and use them in all your projects.
 ```
 

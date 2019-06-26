@@ -8,6 +8,20 @@ You are free to modify, save, share, and use them in all your projects.
 ```
 
 # Used
-[React](https://pt-br.reactjs.org/)
-[NextJS](https://github.com/zeit/next.js)
-[W3.CSS](https://www.w3schools.com/w3css/default.asp)
+- [React](https://pt-br.reactjs.org/)
+- [NextJS](https://github.com/zeit/next.js)
+- [W3.CSS](https://www.w3schools.com/w3css/default.asp)
+
+# how to use?
+```
+git clone https://github.com/juniodbl/home-template
+```
+```
+cd home-template
+```
+```
+npm install
+```
+```
+npm run dev
+```
